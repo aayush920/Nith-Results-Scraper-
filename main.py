@@ -2,8 +2,6 @@ import os
 import requests
 from bs4 import BeautifulSoup as BS
 import smtplib
-import csv
-import xlwt
 import xlsxwriter
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
